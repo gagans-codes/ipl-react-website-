@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96">
+  <circle cx="48" cy="48" r="46" fill="#39235f" stroke="#e1c47a" stroke-width="3"/>
+  <path d="M26 27h44v42H26z" fill="#563585" stroke="#ba9cde" stroke-width="2"/>
+  <text x="48" y="54" fill="#f3e5b0" font-family="Arial,sans-serif" font-size="19" font-weight="700" text-anchor="middle">KKR</text>
+</svg>

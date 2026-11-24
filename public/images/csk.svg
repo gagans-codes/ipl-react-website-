@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96">
+  <defs><linearGradient id="a" x2="0" y2="1"><stop stop-color="#ffe681"/><stop offset="1" stop-color="#ed9e18"/></linearGradient></defs>
+  <circle cx="48" cy="48" r="46" fill="#123d78" stroke="#ffe681" stroke-width="3"/>
+  <path d="M22 30h52v36H22z" rx="8" fill="url(#a)"/>
+  <text x="48" y="56" fill="#103268" font-family="Arial,sans-serif" font-size="21" font-weight="700" text-anchor="middle">CSK</text>
+</svg>

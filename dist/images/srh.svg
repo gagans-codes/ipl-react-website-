@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96">
+  <circle cx="48" cy="48" r="46" fill="#a33b20" stroke="#ffce72" stroke-width="3"/>
+  <path d="M48 19 72 34 64 66 48 78 32 66 24 34z" fill="#e8752d"/>
+  <text x="48" y="54" fill="#fff1d2" font-family="Arial,sans-serif" font-size="18" font-weight="700" text-anchor="middle">SRH</text>
+</svg>

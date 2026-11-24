@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" fill="none">
+  <defs>
+    <linearGradient id="sky" x1="800" y1="0" x2="800" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#17334b"/>
+      <stop offset=".58" stop-color="#142435"/>
+      <stop offset="1" stop-color="#07111f"/>
+    </linearGradient>
+    <linearGradient id="field" x1="800" y1="612" x2="800" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#145548"/>
+      <stop offset="1" stop-color="#0b302d"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(0 306 -585 0 800 590)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2aa9c7" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#1b7189" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="light">
+      <stop stop-color="#fff5c5"/>
+      <stop offset=".2" stop-color="#ffdf91" stop-opacity=".75"/>
+      <stop offset="1" stop-color="#ffc75b" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <path fill="url(#sky)" d="M0 0h1600v900H0z"/>
+  <path fill="url(#glow)" d="M0 320h1600v580H0z"/>
+  <circle cx="280" cy="260" r="200" fill="url(#light)" opacity=".42"/>
+  <circle cx="1320" cy="240" r="230" fill="url(#light)" opacity=".35"/>
+  <path stroke="#273d4c" stroke-width="12" d="M90 208v335m1420-364v385"/>
+  <g fill="#f3d996">
+    <path d="M49 172h82v17H49zm-11 24h105v14H38zm-14 21h133v12H24z"/>
+    <path d="M1465 143h82v17h-82zm-11 24h105v14h-105zm-14 21h133v12h-133z"/>
+  </g>
+  <g fill="#fff5d5" opacity=".8">
+    <circle cx="61" cy="179" r="4"/><circle cx="78" cy="179" r="4"/><circle cx="95" cy="179" r="4"/><circle cx="112" cy="179" r="4"/>
+    <circle cx="51" cy="203" r="3"/><circle cx="70" cy="203" r="3"/><circle cx="89" cy="203" r="3"/><circle cx="108" cy="203" r="3"/><circle cx="127" cy="203" r="3"/>
+    <circle cx="1478" cy="150" r="4"/><circle cx="1495" cy="150" r="4"/><circle cx="1512" cy="150" r="4"/><circle cx="1529" cy="150" r="4"/>
+    <circle cx="1471" cy="174" r="3"/><circle cx="1490" cy="174" r="3"/><circle cx="1509" cy="174" r="3"/><circle cx="1528" cy="174" r="3"/><circle cx="1547" cy="174" r="3"/>
+  </g>
+  <path fill="#102331" d="M0 450c124-57 234-66 353-24 110-71 219-74 335-15 123-93 244-95 364-6 129-67 256-57 378 27 66-17 123-15 170 6v248H0z"/>
+  <path fill="#172d3a" d="M0 510c128-72 250-72 365 0 130-97 264-96 402 3 109-81 225-89 348-23 142-72 305-66 485 18v214H0z"/>
+  <g fill="#294556" opacity=".78">
+    <path d="M0 520h1600v18H0z"/><path d="M0 565h1600v13H0z"/><path d="M0 604h1600v11H0z"/>
+  </g>
+  <g fill="#dfb965" opacity=".75">
+    <circle cx="90" cy="500" r="4"/><circle cx="125" cy="486" r="3"/><circle cx="165" cy="476" r="4"/><circle cx="204" cy="471" r="3"/><circle cx="252" cy="478" r="4"/>
+    <circle cx="319" cy="495" r="4"/><circle cx="365" cy="469" r="3"/><circle cx="410" cy="461" r="4"/><circle cx="459" cy="466" r="3"/><circle cx="512" cy="485" r="4"/>
+    <circle cx="589" cy="492" r="3"/><circle cx="636" cy="465" r="4"/><circle cx="689" cy="453" r="3"/><circle cx="742" cy="462" r="4"/><circle cx="797" cy="476" r="3"/>
+    <circle cx="866" cy="466" r="4"/><circle cx="912" cy="454" r="3"/><circle cx="963" cy="465" r="4"/><circle cx="1013" cy="479" r="3"/><circle cx="1061" cy="475" r="4"/>
+    <circle cx="1126" cy="491" r="3"/><circle cx="1184" cy="463" r="4"/><circle cx="1234" cy="456" r="3"/><circle cx="1285" cy="464" r="4"/><circle cx="1330" cy="479" r="3"/>
+    <circle cx="1391" cy="490" r="4"/><circle cx="1440" cy="482" r="3"/><circle cx="1490" cy="495" r="4"/><circle cx="1540" cy="504" r="3"/>
+  </g>
+  <path fill="url(#field)" d="M0 660c216-69 473-105 800-105s584 36 800 105v240H0z"/>
+  <path stroke="#8ebf72" stroke-opacity=".28" stroke-width="3" d="M800 562c-245 85-379 198-414 338m414-338c245 85 379 198 414 338M250 602c56 79 82 176 78 298m1022-298c-56 79-82 176-78 298"/>
+  <ellipse cx="800" cy="785" rx="173" ry="40" fill="#b9a875" fill-opacity=".26"/>
+  <path fill="#d0bc83" fill-opacity=".55" d="M745 760h110v79H745z"/>
+  <path stroke="#eadcae" stroke-opacity=".45" stroke-width="3" d="M745 760v79m110-79v79M745 760h110m-110 79h110"/>
+  <g fill="#fff3cd" opacity=".68">
+    <circle cx="590" cy="721" r="3"/><circle cx="627" cy="749" r="3"/><circle cx="684" cy="691" r="2"/><circle cx="902" cy="709" r="3"/>
+    <circle cx="968" cy="753" r="3"/><circle cx="1035" cy="694" r="2"/><circle cx="545" cy="790" r="2"/><circle cx="1080" cy="790" r="2"/>
+  </g>
+</svg>
